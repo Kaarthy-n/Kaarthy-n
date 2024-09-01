@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Kaarthick Natesh 👋
 
-### 🌟 Embedded Systems Enthusiast | Hardware Hacker | Coder
+### 🌟 Embedded Systems Enthusiast 
 
 I'm an aspiring embedded systems developer with a passion for turning ideas into reality through code and electronics. Whether it's programming microcontrollers, designing PCBs, or integrating sensors, I enjoy every aspect of embedded development.
 
